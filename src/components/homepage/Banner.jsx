@@ -7,7 +7,7 @@ const Banner = () => {
         
         {/* Left Content */}
         <div className="space-y-8">
-          <h1 className="text-4xl md:text-6xl font-bold text-black leading-tight">
+          <h1 className="text-3xl md:text-5xl font-bold text-black leading-tight">
             Books to freshen up <br /> your bookshelf
           </h1>
 
